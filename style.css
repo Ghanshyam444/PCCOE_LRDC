@@ -57,7 +57,7 @@ nav img {
 }
 
 .text-box {
-    width: :90%;
+    width: 90%;
     color: #fff;
     /* position: absolute; */
     top: 50%;
@@ -67,8 +67,6 @@ nav img {
     /* text-align: centre; */
     margin-left: 650px;
     margin-top: 100px;
-
-
 }
 
 .text-box h1 {
