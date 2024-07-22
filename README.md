@@ -4,4 +4,4 @@ LRDC Stands for Learning Resource and Development Center -> First Year College P
 
 # Link 👇
 
-https://pccoe-lrdc.netlify.app
+https://pccoelrdc.netlify.app
